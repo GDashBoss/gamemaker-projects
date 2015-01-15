@@ -7,6 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_man</sprite>
+    <sprite>sprites\sprite1</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_main</background>
@@ -14,6 +15,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_man</object>
+    <object>objects\obj_pipe</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_room</room>
